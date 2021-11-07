@@ -4,6 +4,9 @@ The Simon game is the exciting electronic game of lights and sounds in which pla
 Includes Simon game unit and instructions:
 
 " Classic Simon gameplay
+
 " Follow lights and sounds
+
 " Suspense builds as sequences get longer
+
 " Play solo
